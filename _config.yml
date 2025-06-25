@@ -1,8 +1,8 @@
 # Configuración del sitio Jekyll para GitHub Pages
 title: "ASOCIACIÓN DE MUJERES Y FAMILIAS CAMPESINAS CACAOTERAS DE GUADALUPE"
 description: "Sitio oficial de la Asociación de Mujeres y Familias Campesinas Cacaoteras de Guadalupe"
-baseurl: ""
-url: "https://[tu-usuario].github.io"
+baseurl: "/asociacion-cacaotera"
+url: " https://franciscojavierquiroga.github.io"
 
 # Tema de Jekyll (compatible con GitHub Pages)
 theme: minima
