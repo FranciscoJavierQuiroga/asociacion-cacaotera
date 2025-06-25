@@ -1,0 +1,79 @@
+# Configuración del sitio Jekyll para GitHub Pages
+title: "ASOCIACIÓN DE MUJERES Y FAMILIAS CAMPESINAS CACAOTERAS DE GUADALUPE"
+description: "Sitio oficial de la Asociación de Mujeres y Familias Campesinas Cacaoteras de Guadalupe"
+baseurl: ""
+url: "https://[tu-usuario].github.io"
+
+# Tema de Jekyll (compatible con GitHub Pages)
+theme: minima
+# Alternativamente puedes usar:
+# remote_theme: pages-themes/minimal@v0.2.0
+
+# Configuración del autor/organización
+author:
+  name: "AMFCCG"
+  email: "contacto@amfccg.org"
+
+# Configuración de navegación
+header_pages:
+  - index.md
+
+# Configuración de redes sociales (opcional)
+# github_username: tu-usuario-github
+# twitter_username: tu-usuario-twitter
+
+# Configuración de Google Analytics (opcional)
+# google_analytics: UA-XXXXXXXX-X
+
+# Configuración de SEO
+lang: es
+timezone: America/Bogota
+
+# Plugins habilitados en GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Configuración del feed RSS
+feed:
+  path: feed.xml
+
+# Configuración de Markdown
+markdown: kramdown
+highlighter: rouge
+
+# Configuración de permalinks
+permalink: /:categories/:year/:month/:day/:title/
+
+# Excluir archivos del build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+
+# Incluir archivos específicos
+include:
+  - _pages
+
+# Configuración de colecciones (si necesitas más adelante)
+collections:
+  documentos:
+    output: false
+
+# Configuración por defecto para posts/páginas
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "docs"
+    values:
+      sitemap: false
