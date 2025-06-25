@@ -17,31 +17,25 @@ A continuación encontrarás los documentos oficiales de nuestra asociación:
 
 ### Documentos Fundacionales
 - [📄 Acta de Constitución](docs/acta-constitucion-amfccg.pdf) - Documento de fundación de la asociación
-- [📋 Estatutos Sociales](docs/estatutos-sociales-amfccg.pdf) - Normativa interna y funcionamiento
+- [📋 Estatutos Sociales](docs/ESTATUTOS_AMUFACAG.pdf) - Normativa interna y funcionamiento
 
 ### Documentos Legales
-- [🏛️ Personería Jurídica](docs/personeria-juridica-amfccg.pdf) - Reconocimiento legal oficial
-- [🆔 Certificado de Existencia](docs/certificado-existencia-amfccg.pdf) - Certificación vigente de la asociación
-- [📝 RUT Asociación](docs/rut-asociacion-amfccg.pdf) - Registro Único Tributario
+- [🏛️ Certificación de Cargos Directivos](docs/CERTIFICACION_CARGOS_DIRECTIVOS_AMUFACAG.pdf)
+- [🆔 Certificado de Antecedentes](docs/CERTIFICADO_DE_ANTECEDENTES_AMUFACAG.pdf) - Certificación vigente de la asociación
+- [📝 RUT Asociación](docs/Registro_Unico_Tributario.pdf) - Registro Único Tributario
 
 ### Documentos Administrativos
-- [👥 Directorio Actual](docs/directorio-actual-amfccg.pdf) - Junta directiva vigente
-- [📊 Plan Estratégico](docs/plan-estrategico-amfccg.pdf) - Objetivos y metas organizacionales
-- [📈 Memoria Anual](docs/memoria-anual-amfccg.pdf) - Reporte de actividades del último período
+- [👥 Acta de Asamblea](docs/ACTA_DE_ASAMBLEA_AMUFACAG.pdf) 
+- [📊 Informe de Gestion](docs/INFORME_DE_GESTION_AMUFACAG.pdf) 
 
-### Documentos Proyectos
-- [🌾 Proyecto Cacao Sostenible](docs/proyecto-cacao-sostenible.pdf) - Iniciativa de producción sostenible
-- [💰 Informe Financiero](docs/informe-financiero-amfccg.pdf) - Estado financiero de la asociación
-
----
 
 ## 📞 Información de Contacto
 {: .emoji-section}
 
 <div class="contact-section" markdown="1">
-- **Dirección**: [Dirección de la asociación]
-- **Teléfono**: [Número de contacto]
-- **Email**: [correo@amfccg.org]
+- **Dirección**: Guadalupe Santander
+- **Teléfono**: 
+- **Email**: 
 </div>
 
 ---
